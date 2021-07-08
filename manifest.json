@@ -1,7 +1,12 @@
 {
     "commerceSuiteVersion": "2005",
     "troubleshootingModeEnabled": true,
-    "useCloudExtensionPack": true,
+    "extensionPacks": [
+        {
+            "name": "hybris-commerce-integrations",
+            "version": "2005.0"
+        }
+    ],
     "extensions": [
         "commerceservicesbackoffice",
         "solrfacetsearchbackoffice",
