@@ -52,7 +52,7 @@
         "backoffice",
         "azurecloud",
         "mediaconversionbackoffice",
-        "mediaconversion"
+        "cloudmediaconversion"
     ],
     "useConfig": {
         "properties": [
